@@ -1,4 +1,5 @@
-# Koreader_multidictionary
+# Koreader_multidict.koplugin
+
 # Multi-format dictionaries (multidict) para KOReader
 
 Con este plugin, KOReader puede usar diccionarios en casi cualquier formato, no solo StarDict. MDict, Lingvo, Kindle, EPUB, Kobo, PocketBook, Babylon, Apple y muchos más se abren directamente: no hace falta convertirlos antes con pyglossary ni con otro programa.
