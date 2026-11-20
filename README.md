@@ -7,7 +7,7 @@ Con este plugin, KOReader puede usar diccionarios en casi cualquier formato, no 
 Los diccionarios del plugin aparecen junto a tus StarDict en la ventana de consulta de siempre. Desde **Ajustes de diccionario** se pueden ordenar, desactivar o meter en preajustes, y sus enlaces internos se siguen como en cualquier otro.
 
 Versión 1.5.0.
-
+ 
 ---
 
 ## Formatos que lee
